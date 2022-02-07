@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8537546007114700483
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1907710143156560860, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf87ed4f143e64a97abcd364833da37e, type: 2}
+    - target: {fileID: 1907710143161818576, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143161844760, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143161891938, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_Name
+      value: Radius Zombie AirportWorker Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143162131432, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -26.589787
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143162131432, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.030426979
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143162131432, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 188.24768
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143162131432, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143162131432, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143162131432, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143162131432, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143162131432, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143162131432, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143162131432, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1907710143162131432, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861989130713469852, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 408062e0d457246159bec1c04b6799e6, type: 3}
